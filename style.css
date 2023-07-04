@@ -500,7 +500,7 @@ header {
 }
 
 .frofilebg {
-    background-image: url('/images/Group\ 1513.png');
+    background-image: url('./images/Group\ 1513.png');
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -540,7 +540,7 @@ header {
 }
 
 .happybg {
-    background-image: url('/images/Rectangle\ 14.png');
+    background-image: url('./images/Rectangle\ 14.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
