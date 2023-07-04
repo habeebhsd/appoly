@@ -5,7 +5,7 @@
 }
 
 .mainbgimg {
-    background-image: url(./images/Background\ Image\ \(1\).png);
+    background-image: url('./images/Background\ Image\ \(1\).png');
     background-size: cover;
     height: 100vh;
     padding-top: 170px;
@@ -196,7 +196,7 @@ header {
 }
 
 .secondbg_img {
-    background-image: url(./images/Rectangle\ 14.png);
+    background-image: url('./images/Rectangle\ 14.png');
     background-size: cover;
     height: 100vh;
     background-repeat: no-repeat;
@@ -443,7 +443,7 @@ header {
 }
 
 .rectangle {
-    background-image: url(./images/Rectangle\ 15.png);
+    background-image: url('./images/Rectangle\ 15.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
@@ -746,7 +746,7 @@ footer {
     }
 
     .mainbgimg {
-        height: 130vh;
+        height: 150vh;
     }
 
     .firstpara {
@@ -856,7 +856,8 @@ footer {
     }
 
     .secondbg_img {
-        height: 200vh;
+        height: 250vh;
+
     }
 
     .ultimiter {
